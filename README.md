@@ -1,2 +1,2 @@
 # Farm_simulator
-PJC project
+A simple college project using the SFML library.
